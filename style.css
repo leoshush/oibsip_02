@@ -1,0 +1,88 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+    background-color: azure;
+}
+h1{padding-top: 20px;}
+p{ 
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+}
+.title{
+    display: flex;
+   flex-direction: column;
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-right: 350px;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  background-color: bisque;
+ 
+   
+}
+img{
+    height: 250px;
+    width: 300px;
+}
+.edu{
+    display: block;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right:50px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+}
+ul{
+    margin-top: 5px;
+    padding-left:50px;
+    padding-right:50px;
+    font-family: 'Baloo Bhai 2', cursive;
+   font-size: 20px;
+}
+cite{
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    padding-left: 60px;
+}
+a{
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: 500px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 27px;
+}
+h2{
+    display: block;
+    
+    padding-left: 50px;
+    font-size: 25px;
+    align-items: center;
+}
+ a .wiki{ display: inline-block;
+    justify-content: start;
+    font-size: 25px;
+    text-align: justify;
+
+}
+h3{
+    
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#tribute-info{
+    background-image: url(https://images.moneycontrol.com/static-mcnews/2019/08/atal-bihari-vajpayee.jpg?impolicy=website&width&height);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    max-height: 1400px;
+   
+    background-color: rgba(244, 239, 239, 0.932);
+ 
+}
+#timeline  li{
+    color: brown;
+    font-weight: 500;
+}
